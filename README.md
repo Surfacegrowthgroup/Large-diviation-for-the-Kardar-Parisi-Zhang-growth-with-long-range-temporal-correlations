@@ -27,9 +27,9 @@ The five code files represent the large deviation algorithm for KPZ and EW growt
 ### The large deviation part of KPZ or EW
 
 In order to obtain the high-precision height distribution of the KPZ and EW equation subject to temporal correlations, the process of these code is as follows.
- 1.Determining the biased parameter
- 2.Calculating the distribution under the chosen parameter
- 3.Re-weighting the histogram and renormalization
+ 1.Determining the biased parameter    
+ 2.Calculating the distribution under the chosen parameter      
+ 3.Re-weighting the histogram and renormalization     
 
 ### The error bar part of KPZ or EW
 
