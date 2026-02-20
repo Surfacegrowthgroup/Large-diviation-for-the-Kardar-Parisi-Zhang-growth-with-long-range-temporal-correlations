@@ -10,7 +10,7 @@ There are three parts matlab code and data of the paper. Simulations and results
 All of three codes work with Matlab R2024b and the Add-ons including Parallel Computing Toolbox and Statistics and Machine Learning Toolbox. 
 
 
-## Introduction of the code
+## Guide
 The five code files represent the large deviation algorithm for KPZ and EW growth, and the error bars for the skewness and kurtosis, respectively. Some critical parameters and their meaning are as follows.
 
 | Parameter        | Meaning                                |
